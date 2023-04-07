@@ -1,4 +1,23 @@
-# EDA Employee-Attrition
+# Employee-Attrition
+## Stage 0 : Problem Statement
+1. Problem Statement
+Jumlah attrition rate mencapai 16.12%. hal tersebut melebihi batas ideal attrition rate yaitu 10%. mengakibatkan kinerja perusahaan menurun dikarenakan karyawan yang memiliki kinerja yang baik berpotensi meninggalkan perusahaan dan meningkatkan pengeluaran perusahaan dalam rekrutmen karyawan baru. Sehingga, project perusahaan yang berkaitan dengan mantan karyawan tertunda, sehingga dapat mempengaruhi timeline yang dapat berdampak langsung pada reputasi perusahaan terhadap konsumen ataupun partner perusahaan.
+2. Objective
+__membuat model machine learning untuk memprediksi karyawan yang berpotensi untuk resign__. jadi diharapkan dari model ini tingkat attrition dapat mencapai dibawah 10%. action item yang dapat digunakan untuk mengurangi tingkat attrition rate adalah : 
+- mengapresiasi kinerja karyawan
+- Gaji dan Fasilitas yang Kompetitif
+- Jam Kerja yang Seimbang dan Jobdesk yang rasional
+- Menyusun Strategi Engagement Karyawan
+- menawarkan dan memberikan tunjangan lain yang menarik
+- mengadakan acara kumpul Bersama dan olahraga Bersama
+- memberikan kesempatan untuk berkembang
+3. Goals
+- menurunkan persentase attrition rate
+- Memprediksi potensi karyawan yang akan resign
+4. Business Metrics
+- Attrition Rate
+
+## Stage 1: EDA(Explanatory Data Analysis) Employee-Attrition
 ## Descriptive Statistics
 Terdapat beberapa point yang didapat:
 - Kolom employee count hanya bernilai 1 pada semua data,
